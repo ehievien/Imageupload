@@ -1,0 +1,10 @@
+C:\Users\Purplepetite\source\repos\ImageUpload\ImageUpload\bin\Debug\ImageUpload.exe.config
+C:\Users\Purplepetite\source\repos\ImageUpload\ImageUpload\bin\Debug\ImageUpload.exe
+C:\Users\Purplepetite\source\repos\ImageUpload\ImageUpload\bin\Debug\ImageUpload.pdb
+C:\Users\Purplepetite\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csprojAssemblyReference.cache
+C:\Users\Purplepetite\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.Form1.resources
+C:\Users\Purplepetite\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.Properties.Resources.resources
+C:\Users\Purplepetite\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csproj.GenerateResource.cache
+C:\Users\Purplepetite\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.csproj.CoreCompileInputs.cache
+C:\Users\Purplepetite\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.exe
+C:\Users\Purplepetite\source\repos\ImageUpload\ImageUpload\obj\Debug\ImageUpload.pdb
